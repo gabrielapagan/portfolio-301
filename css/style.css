@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+    max-width: 100vw; 
+}
+
+* {
+    color: white;
+}
+
+@media screen and (min-width: 520px) {
+    .image {
+        width: 25vw;
+    }
+}
+
+@media screen and (min-width: 320px) {
+    .image {
+        width: 25vw; 
+    }
+}
